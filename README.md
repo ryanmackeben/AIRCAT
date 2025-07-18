@@ -10,3 +10,6 @@ My algorithm works by using the aforementioned detectnet model trained on a larg
 3. Plug webcam into processor
 4. Run AIRCAT.py
 5. Look at the terminal and observe if the model detects any birds in the webcam feed
+
+## Video demonstration link:
+https://youtu.be/muRmdEcbU9Q 
